@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="art1">Cri</string>
+    <string name="art1_year">1893</string>
+    <string name="art2">Guernica</string>
+    <string name="art2_year">1937</string>
+    <string name="art3">La Joconde</string>
+    <string name="art3_year">15061</string>
+    <string name="art4">La Nuit étoilée</string>
+    <string name="art4_year">1889</string>
+</resources>
